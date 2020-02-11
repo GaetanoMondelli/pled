@@ -1,0 +1,10 @@
+---
+layout: default
+img: security.jpg
+category: Services
+title: Security features
+description: |
+---
+- Identification - Authentication : certificates based authentication as per websites  along with some identity providers integration
+- Authorization:  asymmetric cryptography techniques to check an entity is authorised to perform an action (keeping the log)
+- Non repudiation: digital signatures to every recorded action to make impossible repudiate the intetion of an action

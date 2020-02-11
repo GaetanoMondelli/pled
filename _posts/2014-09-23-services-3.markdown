@@ -1,0 +1,9 @@
+---
+layout: default
+img: inspect.jpg
+category: Services
+title: Inspect interactions terms and conditions
+description: |
+---
+- Interactions jargon is showed to the user in a way it is easy to understand, categorise to encourage a better and more conscious decision making
+- App and web interfaces for accessibility and usability

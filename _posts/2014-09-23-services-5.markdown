@@ -1,0 +1,12 @@
+---
+layout: default
+img: audit.jpg
+category: Services
+title: Audit for rewards and authentic feedbacks
+description: |
+---
+- Create new business model based on trust
+- Clients can audit enterprises interactions with other users
+- Enterprise can check clients’ behaviour to get more benefit/ Clients can decide what to share in forms of aggregate data
+
+
