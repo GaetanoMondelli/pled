@@ -5,7 +5,7 @@ category: Services
 title: Share and compare people interactions and how they evolve
 description: |
 ---
-- Possibility to create templates (contract formation) by cloning , forking and extending existing contracts. 
-- Choose which contracts fits the situation by examining other people’s contract history
+- Possibility to create templates (contract formation) by cloning, forking and extending existing contracts. 
+- Choose which contracts fits your needs by examining other people’s contract history
 - Sell/Share your contract history hiding sensible information
 
