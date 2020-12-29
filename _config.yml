@@ -1,33 +1,38 @@
-# ----------------------- #
-#      Main Configs       #
-# ----------------------- #
-
-url: https://pled.io
-title: PLED   
-email: gaetano.mondelli@gmail.com
-#author: Gaetano Mondelli
-description: > # "Write an awesome description for your new site here. 
-  Automate and scale digital trust
-copyright: 'Made with ❤️ in the Shoreditch Triangle, London ' #'Copyright &copy; 2020 PLED. All Rights Reserved.'
-# credits: GaetanoMondelli
-#'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
-
-# ----------------------- #
-#    Jekyll & Plugins     #
-# ----------------------- #
-
-# Build settings
-markdown: kramdown
+baseurl: ''
+exclude: ['README.md']
 permalink: pretty
+title: 'PLED'
 
-# ----------------------- #
-#   3rd Party Settings    #
-# ----------------------- #
+google_analytics_id: ""
+homepage:
+  show_call_box: true
+logo:
+  mobile: "images/logo/logo-pled-mobile.svg"
+  desktop: "images/logo/logo-pled.svg"
+  desktop_height: "36px"
+footer:
+  copyright_text: 'Made with ❤️ in Shoreditch, London'
 
-# social:
-#   - title: twitter
-#     url: https://twitter.com/SBootstrap
-#   - title: github
-#     url: https://github.com/IronSummitMedia/startbootstrap
-#   - title: linkedin
-#     url: 
+seo:
+  meta_og_title: "PLED 2021"
+  meta_og_type: "website"
+  meta_og_url: ""
+  meta_og_image: ""
+  meta_og_description: "Pled distributed ledger technology"
+  meta_twitter_card: "s"
+  meta_twitter_site: ""
+  meta_twitter_creator: ""
+
+collections:
+  services:
+    output: false
+  team:
+    output: false
+
+sass:
+  indentWidth: 4
+  style: compact # possible values: nested expanded compact compressed
+  precision: 10
+
+plugins:
+  - jekyll-environment-variables

@@ -1,9 +1,0 @@
----
-layout: default
-img: inspect.jpg
-category: Services
-title: Inspect interactions terms and conditions
-description: |
----
-- Contract jargon is showed to the user in an easy to understand. More awareness of the terms and conditions for encouraging more conscious decisions.
-- App and web interfaces for accessibility and usability.
