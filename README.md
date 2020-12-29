@@ -15,6 +15,13 @@ title: The service title
 ---
 The description of this service
 ```
+install it
+`gem update jekyll`
+`bundle install`
+
+lunch it 
+`gem cleanup`
+
 
 ## Demo
 View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
