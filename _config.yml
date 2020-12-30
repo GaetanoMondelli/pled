@@ -7,7 +7,7 @@ google_analytics_id: ""
 homepage:
   show_call_box: true
 logo:
-  mobile: "images/logo/logo-pled-icon.svg"
+  mobile: "images/logo/logo-icon.svg"
   desktop: "images/logo/logo-pled-b.svg"
   desktop_height: "36px"
 footer:
