@@ -7,8 +7,8 @@ google_analytics_id: ""
 homepage:
   show_call_box: true
 logo:
-  mobile: "images/logo/logo-pled-mobile.svg"
-  desktop: "images/logo/logo-pled.svg"
+  mobile: "images/logo/logo-pled-icon.svg"
+  desktop: "images/logo/logo-pled-b.svg"
   desktop_height: "36px"
 footer:
   copyright_text: 'Made with ❤️ in Shoreditch, London'

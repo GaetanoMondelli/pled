@@ -8,26 +8,34 @@ intro_image_hide_on_mobile: true
 content2: |
     # Fall in ❤️ with the problem, not with the solutions
 
-    Let's make it clear: Pled is not a blockchain.
+    ### Let's make it clear: ***Pled is not a blockchain***
+    ---
+    ---
 
-    Blockchains, no matter whether public, private or permissioned-permissionless, are a speicific form of DLTs that have specific requirements and constraints. Blockchains are solutions to a class of problem that requires transparency, security and incentive mechanisms.  
 
-    In many use cases today you don't need the complexitity of blockchains to tackle trust-related problems and sometimes you should not use it especially when you have 
-    when you want to guarantee privacy, scalability, availability, regulatory and jurisdctional constraints. 
+    Blockchains, no matter whether public or private, are a form of DLTs that match specific requirements and constraints.
+    In many use-cases you don't need the complexity of blockchains to tackle trust related problems and sometimes you should avoid it, especially when you want to guarantee the custom combination of:
+    - privacy
+    - scalability
+    - availability
+    - non repudiability
+    - governance
+    - regulatory & jurisdctional requirements. 
     
-    Private blockchains are trying to fit the core blockchain technology into larger and diverse class of problems.
-    
-    You also don't want to be tied to an extremely volatile pricing model using public blockchains or locked in a complicated technology. 
-    
-    Pled started from scratch by designing a user centered foundational technology easy to audit and intepret for everyone!   
+    Private blockchains are trying to fit the core blockchain technology into a larger and diverse class of problems. You also don't want to be tied to an unpredictibile maintenance and an extremely volatile pricing model using public blockchains. 
+    We love blockchains but we do not like the ~~ab~~use for some solutions for the only reason of hit the next first page of a newspaper.  
+
+    Pled started from scratch by designing a user centered foundational technology, easy to onboard, audit and intepret for **everyone!**    
 
 ---
 
 # Trust that 👀 like code
 
-Pled offers secure, transparent and verifiable services based on DLTs 
-Our platform allows you to build or consume built-in services on top of distributed ledgers.  
+Pled offers secure, transparent and verifiable services based on DLTs
 
-Do you need to securely store and audit interactions? Have you got privacy concerns? Do you think you need a blockchain?
+Our platform allows you to build or use our built-in services on top of distributed ledgers.  
+
+Do you need to securely store and audit interactions? Have you got privacy concerns? 
+Do you really think you need a **blockchain**?
 
 Ledger services leverage the right combinations of access, speed and governance always in a trasparent, verifiable and not repudiable manner. You can easily access our services through our Web Console or our SDK.
