@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 content2: |
     # Fall in ❤️ with the problem, not with the solutions
 
-    ### Let's make it clear: ***Ple d is not a blockchain***
+    ### Let's make it clear: ***Pled is not a blockchain***
     ---
     ---
 

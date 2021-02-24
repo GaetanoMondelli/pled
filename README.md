@@ -22,6 +22,8 @@ install it
 lunch it 
 `gem cleanup`
 
+deploy it:
+simply push changes on git
 
 ## Demo
 View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
