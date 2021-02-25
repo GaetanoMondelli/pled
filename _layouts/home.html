@@ -29,7 +29,15 @@ bodyClass: page-home
     <div class="row justify-content-start">
       <div class="col-12 col-md-8">
         <div class="service service-single">
-          <div class="content">{{page.content2 | markdownify}}</div>
+          <div class="content">{{page.content2 | markdownify}}
+            <h1>Want to know more?</h1>
+
+            Send us an email and we will get back to you
+            
+            {% formspree "xbjpvjoj" %}
+
+          </div>
+          
         </div>
       </div>
     </div>

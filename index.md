@@ -13,7 +13,8 @@ content2: |
     ---
 
 
-    No matter whether public or private, Blockchains are a form of DLTs that match specific requirements and constraints. In many use-cases, you don't need the complexity of blockchains to tackle trust-related problems, and sometimes you should avoid it, especially when you want to guarantee the custom combination of:
+    Whether public or private, Blockchains are a form of DLTs that match specific requirements and constraints. In many use-cases, you don't need the complexity of blockchains to tackle trust and recordation related problems. Sometimes you should avoid it, especially when you want to guarantee the right combination of the following:
+
     - privacy
     - scalability
     - availability
@@ -21,9 +22,9 @@ content2: |
     - governance
     - regulatory & jurisdictional requirements
     
-    Private blockchains are trying to fit the core blockchain technology into a more extensive and diverse class of problems. You also don't want to be tied to unpredictable maintenance and an extremely volatile pricing model using public blockchains. We love blockchains, but we do not like the abuse for some solutions for the only reason of hit the next first page of a newspaper.
+    Private blockchains are trying to fit the core technology into a more extensive and diverse class of problems. 
     
-    Pled started from scratch by designing a user-centered foundational technology, easy to onboard, audit, and interpret for **everyone**! 
+    Pled offers a user-centered platform, easy to onboard, to build transparent collaboration workflows at scale for **everyone**! 
 
 ---
 
