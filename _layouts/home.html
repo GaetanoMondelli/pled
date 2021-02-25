@@ -31,10 +31,33 @@ bodyClass: page-home
         <div class="service service-single">
           <div class="content">{{page.content2 | markdownify}}
             <h1>Want to know more?</h1>
+            Do you want to see a demo?
+            Send us an email and we will get back to you!
 
-            Send us an email and we will get back to you
-            
-            {% formspree "xbjpvjoj" %}
+
+            <div>
+              <form
+              action="https://formspree.io/f/xbjpvjoj"
+              method="POST">
+              <label>
+                Your email:
+                <br></br>
+                <input type="text" name="_replyto">
+              </label>
+              <br></br>
+              <label>
+                Your message:
+                <br></br>
+                <textarea maxlength="300" name="message"></textarea>
+              </label>
+              <br></br>
+  
+  
+              <button type="submit">Send</button>
+            </form>
+            </div>
+
+
 
           </div>
           
