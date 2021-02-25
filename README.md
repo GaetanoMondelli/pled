@@ -25,6 +25,10 @@ lunch it
 deploy it:
 simply push changes on git
 
+enable discord button in the middle of the page:
+ _config.yml 
+  show_call_box: false 
+
 ## Demo
 View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
 
